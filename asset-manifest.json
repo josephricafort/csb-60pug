@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://josephricafort.github.io/csb-60pug/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://josephricafort.github.io/csb-60pug/static/js/main.14497d4b.chunk.js",
+    "main.js.map": "https://josephricafort.github.io/csb-60pug/static/js/main.14497d4b.chunk.js.map",
+    "runtime-main.js": "https://josephricafort.github.io/csb-60pug/static/js/runtime-main.6542a419.js",
+    "runtime-main.js.map": "https://josephricafort.github.io/csb-60pug/static/js/runtime-main.6542a419.js.map",
+    "static/js/2.15611eda.chunk.js": "https://josephricafort.github.io/csb-60pug/static/js/2.15611eda.chunk.js",
+    "static/js/2.15611eda.chunk.js.map": "https://josephricafort.github.io/csb-60pug/static/js/2.15611eda.chunk.js.map",
+    "index.html": "https://josephricafort.github.io/csb-60pug/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://josephricafort.github.io/csb-60pug/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.15611eda.chunk.js.LICENSE.txt": "https://josephricafort.github.io/csb-60pug/static/js/2.15611eda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6542a419.js",
+    "static/js/2.15611eda.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.14497d4b.chunk.js"
+  ]
+}
